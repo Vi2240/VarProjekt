@@ -13,11 +13,17 @@ p
     font-size: 1.5em;
 }
 
+.navbar-brand-img
+{
+    width: 8%;
+    height: 7%;
+}
+
 img
 {
     border: 1px solid #ddd;
     border-radius: 2%;
-    padding: 5px;
+    padding: 1%;
     width: 100%;
     height: auto;
 }
@@ -44,4 +50,11 @@ img
 .AboutText > p
 {
     margin-top: 1%;
+}
+
+footer
+{
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+    bottom: 0;
 }
